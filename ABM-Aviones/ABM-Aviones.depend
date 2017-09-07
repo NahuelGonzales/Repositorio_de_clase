@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1464646675 source:f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm-aviones\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1468343951 source:f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm-aviones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lib.h"
+	"ArrayList.h"
+
+1464646593 f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm-aviones\lib.h
+
+1468343973 source:f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm-aviones\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1465998191 f:\utn - tecnicatura superior en programacion\1 - cuatrimestre\abm-aviones\arraylist.h
+
